@@ -1,8 +1,12 @@
 * {
-    background-color: grey;
+    background-color: black;
+}
+.ind {
+    text-align: center;
 }
 h1 {
     color: white;
+    
 }
 p {
     color: blanchedalmond;
